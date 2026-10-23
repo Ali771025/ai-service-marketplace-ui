@@ -1,5 +1,10 @@
 # AI Service Marketplace UI
 
+<!-- project-contact:start -->
+**Work with Yosof Omrani:** [Email a project inquiry](mailto:aliomrani916@gmail.com) · **aliomrani916@gmail.com** · [Services & contact](https://ali771025.github.io/software-portfolio/en/contact/) · [Portfolio walkthrough](https://ali771025.github.io/software-portfolio/en/#projects)
+<!-- project-contact:end -->
+
+
 ![Project overview](docs/assets/overview.svg)
 
 A React and TypeScript marketplace workspace prototype for AI-service discovery, creator tools, plan management and platform operations.
